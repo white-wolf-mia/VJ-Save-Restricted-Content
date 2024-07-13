@@ -1,4 +1,4 @@
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @RD_C4
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -29,6 +29,6 @@ class Bot(Client):
         await super().stop()
         print('Bot Stopped Bye')
 
-# Don't Remove Credit Tg - @VJ_Botz
+# Don't Remove Credit Tg - @RD_C4
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
